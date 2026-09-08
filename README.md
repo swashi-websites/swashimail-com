@@ -8,3 +8,4 @@ Minimal email-identity page for the sending domain `swashimail.com`, operated by
 - Deploy: Vercel project `swashimail.com` → domains `swashimail.com` and `www.swashimail.com` (www → apex redirect only).
 
 Deploy check: 2026-09-08 (README-only commit to prove GitHub → Vercel connectivity; no page content change).
+Deploy check (author = swashi-websites): 2026-09-08T02:01:20Z
